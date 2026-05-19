@@ -39,9 +39,6 @@ while True:
 <img width="923" height="322" alt="Screenshot 2026-05-19 113359" src="https://github.com/user-attachments/assets/820f45b3-9ad8-46f2-97a8-a49a206ac54b" />
 ## SERVER
 <img width="887" height="325" alt="Screenshot 2026-05-19 113412" src="https://github.com/user-attachments/assets/1938c28f-c8e4-4811-88e8-f43d527d003e" />
+
 ## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed. 
-
-
-## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed.
